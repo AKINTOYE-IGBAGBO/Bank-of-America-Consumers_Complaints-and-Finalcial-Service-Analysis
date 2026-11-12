@@ -20,11 +20,11 @@ Company ; Bank of America
 
 Agent :  Cusumer Financial Complaints  Beauracy
 
-Complaints :62,591
+Complaints :62,516
 
-Financial Products : 
+Financial Products : 9
 
-Issues:
+Issues:76
 
 Year : 2017 to 2023
 
@@ -46,6 +46,10 @@ Power Query - Data Filling
 
 
 ### Data Preparation Steps
+
+
+<img width="760" height="161" alt="image" src="https://github.com/user-attachments/assets/67a54af9-8b16-43a7-ade5-016a491b02c1" />
+
 
 
 ### Business Insights 
