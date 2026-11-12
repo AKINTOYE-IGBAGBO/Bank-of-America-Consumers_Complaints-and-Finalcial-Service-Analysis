@@ -18,7 +18,7 @@ To analyse complaint trends, frequently reported issues, financial products asso
 
 Company ; Bank of America
 
-Agent :  Cusumer Financial Complaints  Beauracy
+Agent :  CFPB
 
 Complaints :62,516
 
@@ -54,9 +54,12 @@ Power Query - Data Filling
 
 ### Business Insights 
 
+[Business Report](https://github.com/AKINTOYE-IGBAGBO/Bank-of-America-Consumers_Complaints-and-Finalcial-Service-Analysis/blob/main/Consumer%20complaints%20Business%20Report.docx)
+
 
 ### Author 
 
+[AKINTOYE IGBAGBO](www.linkedin.com/in/igbagbo-akintoye-5344a7ba)
  
 
  
